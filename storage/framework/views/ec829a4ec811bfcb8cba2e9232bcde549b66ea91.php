@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp7\htdocs\eshop\app\Plugins\Payment\PaypalExpress/Views/script.blade.php ENDPATH**/ ?>

@@ -1,0 +1,37 @@
+<?php
+return [
+    'id'                 =>'هوية شخصية',
+    'name'               =>  'اسم',
+    'group'              =>  'مجموعة',
+    'text'               =>  'محتوى',
+    'html'               =>  'لغة البرمجة',
+    'status'             =>  'حالة',
+    'admin'              =>  [
+        'title'          =>  "نموذج البريد الإلكتروني",
+        'create_success' =>  "نجاح إنشاء عنصر جديد!" ,
+        'edit_success'   =>  "نجح تحرير العنصر!" ,
+        'list'           =>  "قائمة قوالب البريد الإلكتروني",
+        'id'             =>  'هوية شخصية',
+        'status'         =>  'حالة',
+        'action'         =>  'عمل',
+        'edit'           =>  'يحرر',
+        'export'         =>  'يصدر',
+        'delete'         =>  'حذف',
+        'refresh'        =>  'تحديث',
+        'result_item'    => 'Showing <b>:item_from</b> to <b>:item_to</b> of <b>:item_total</b> items</b>',
+        'sort'           =>  'فرز',
+        'search'         =>  'يبحث',
+        'add_new'        =>  'اضف جديد',
+        'add_new_title'  =>  "إضافة نموذج",
+        'add_new_des'    =>  "إنشاء نموذج جديد",
+        'variable_support'=>"دعم المتغيرات:" ,
+
+        'search_place'   => "معرف البحث أو البريد الإلكتروني" ,
+        'sort_order'     => [
+            'id_asc'     => "ID تصاعدي" ,
+            'id_desc'    => "وصف المعرف",
+            'email_asc'  => "تصعيد البريد الإلكتروني" ,
+            'email_desc' => "وصف البريد الإلكتروني" ,
+        ],
+    ],
+];

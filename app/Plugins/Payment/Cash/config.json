@@ -1,0 +1,11 @@
+{
+    "name": "Cash module",
+    "image": "images/logo.png",
+    "auth": "Tarek Mandour",
+    "email": "tarek.mandourr@gmail.com",
+    "link": "https://arabiacode.com",
+    "configGroup": "Plugins",
+    "configCode": "Payment",
+    "configKey": "Cash",
+    "version": "1.1"
+}

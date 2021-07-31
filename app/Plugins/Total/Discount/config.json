@@ -1,0 +1,11 @@
+{
+    "name": "Discount module",
+    "image": "",
+    "auth": "Tarek Mandour",
+    "email": "tarek.mandourr@gmail.com",
+    "link": "https://arabiacode.com",
+    "configGroup": "Plugins",
+    "configCode": "Total",
+    "configKey": "Discount",
+    "version": "1.2"
+}

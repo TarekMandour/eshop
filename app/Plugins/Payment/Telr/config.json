@@ -1,0 +1,11 @@
+{
+    "name": "Telr module",
+    "image": "images/logo.png",
+    "auth": "Tarek Mandour",
+    "email": "lanhktc@gmail.com",
+    "link": "http://arabiacode.org",
+    "configGroup": "Plugins",
+    "configCode": "Payment",
+    "configKey": "Telr",
+    "version": "1.0"
+}

@@ -1,0 +1,27 @@
+<?php
+return [
+    'id'     => 'هوية شخصية',
+    'name'   => 'اسم',
+    'status' => 'حالة',
+    'type'   => "نوع العرض" ,
+    'admin'  => [
+        'title'          => "مجموعة السمات" ,
+        'create_success' => "نجاح إنشاء عنصر جديد!" ,
+        'edit_success'   => "نجح تحرير العنصر!" ,
+        'list'           => "قائمة مجموعة السمات",
+        'id'             => 'هوية شخصية',
+        'name'           => 'اسم',
+        'status'         => 'حالة',
+        'action'         => 'عمل',
+        'edit'           => 'يحرر',
+        'export'         => 'يصدر',
+        'delete'         => 'حذف',
+        'refresh'        => 'تحديث',
+        'result_item'    => 'Showing <b>:item_from</b> to <b>:item_to</b> of <b>:item_total</b> items</b>',
+        'sort'           => 'فرز',
+        'search'         => 'يبحث',
+        'add_new'        => 'اضف جديد',
+        'add_new_title'  => "إضافة مجموعة سمات" ,
+        'add_new_des'    => "إنشاء مجموعة سمات جديدة" ,
+    ],
+];

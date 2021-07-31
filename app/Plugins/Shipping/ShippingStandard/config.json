@@ -1,0 +1,11 @@
+{
+    "name": "Shipping standard",
+    "image": "",
+    "auth": "Tarek Mandour",
+    "email": "tarek.mandourr@gmail.com",
+    "link": "https://arabiacode.com",
+    "configGroup": "Plugins",
+    "configCode": "Shipping",
+    "configKey": "ShippingStandard",
+    "version": "1.2"
+}

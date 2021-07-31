@@ -1,0 +1,27 @@
+<?php
+return [
+    'id'     => 'هوية شخصية',
+    'code'   => 'شفرة',
+    'name'   => 'اسم',
+    'admin'  => [
+        'title'          => "نوع البانر",
+        'create_success' => "نجاح إنشاء عنصر جديد!" ,
+        'edit_success'   => "نجح تحرير العنصر!" ,
+        'list'           => "قائمة نوع البانر",
+        'id'             => 'هوية شخصية',
+        'code'           => 'شفرة',
+        'name'           => 'أكتب اسم',
+        'action'         => 'عمل',
+        'edit'           => 'يحرر',
+        'export'         => 'يصدر',
+        'delete'         => 'حذف',
+        'refresh'        => 'تحديث',
+        'result_item'    => 'Showing <b>:item_from</b> to <b>:item_to</b> of <b>:item_total</b> items</b>',
+        'sort'           => 'فرز',
+        'search'         => 'يبحث',
+        'add_new'        => 'اضف جديد',
+        'add_new_title'  => "إضافة نوع إعلان بانر",
+        'add_new_des'    => "إنشاء نوع إعلان بانر جديد" ,
+        'select_target'    => "حدد الهدف" ,
+    ],
+];
